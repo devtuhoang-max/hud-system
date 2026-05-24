@@ -2,7 +2,7 @@
 - Status
 - Car
 - Money
-- 
+
 **THÊM VÀO F1**
 ```lua
 id = 'dieuchinhhud',
